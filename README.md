@@ -1,4 +1,4 @@
-# Sausage Roll app using getx
+# Codemagic test app
 
 Flutter Hello World project test app
 
